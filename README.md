@@ -1,2 +1,2 @@
 # PHR
-phr new modul
+phr new module
